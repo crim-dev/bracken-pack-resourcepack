@@ -1,0 +1,14 @@
+{
+    "layers": {
+      "humanoid": [
+        {
+          "texture": "bracken:silk_h"
+        }
+      ],
+      "humanoid_leggings": [
+        {
+          "texture": "bracken:silk_hl"
+        }
+      ]
+    }
+  }

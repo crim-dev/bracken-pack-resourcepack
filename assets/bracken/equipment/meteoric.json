@@ -1,0 +1,14 @@
+{
+    "layers": {
+      "humanoid": [
+        {
+          "texture": "bracken:meteoric_h"
+        }
+      ],
+      "humanoid_leggings": [
+        {
+          "texture": "bracken:meteoric_hl"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,319 @@
+{
+    "sources": [
+        {
+            "type": "minecraft:paletted_permutations",
+            "textures": [
+                "bracken:trims/entity/humanoid/brine",
+                "bracken:trims/entity/humanoid_leggings/brine"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "iron_darker": "trims/color_palettes/iron_darker",
+                "resin": "trims/color_palettes/resin",
+                "gold": "trims/color_palettes/gold",
+                "gold_darker": "trims/color_palettes/gold_darker",
+                "diamond": "trims/color_palettes/diamond",
+                "diamond_darker": "trims/color_palettes/diamond_darker",
+                "netherite": "trims/color_palettes/netherite",
+                "netherite_darker": "trims/color_palettes/netherite_darker",
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "copper_darker": "trims/color_palettes/copper_darker",
+                "emerald": "trims/color_palettes/emerald",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst",
+                "blaze": "bracken:trims/color_palettes/blaze"
+            }
+        },
+        {
+            "type": "minecraft:paletted_permutations",
+            "textures": [
+                "bracken:trims/entity/humanoid_leggings/omnidrome",
+                "bracken:trims/entity/humanoid/omnidrome"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "iron_darker": "trims/color_palettes/iron_darker",
+                "resin": "trims/color_palettes/resin",
+                "gold": "trims/color_palettes/gold",
+                "gold_darker": "trims/color_palettes/gold_darker",
+                "diamond": "trims/color_palettes/diamond",
+                "diamond_darker": "trims/color_palettes/diamond_darker",
+                "netherite": "trims/color_palettes/netherite",
+                "netherite_darker": "trims/color_palettes/netherite_darker",
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "copper_darker": "trims/color_palettes/copper_darker",
+                "emerald": "trims/color_palettes/emerald",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst",
+                "blaze": "bracken:trims/color_palettes/blaze"
+            }
+        },
+        {
+            "type": "minecraft:paletted_permutations",
+            "textures": [
+                "bracken:trims/entity/humanoid_leggings/varskspace",
+                "bracken:trims/entity/humanoid/varskspace"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "iron_darker": "trims/color_palettes/iron_darker",
+                "resin": "trims/color_palettes/resin",
+                "gold": "trims/color_palettes/gold",
+                "gold_darker": "trims/color_palettes/gold_darker",
+                "diamond": "trims/color_palettes/diamond",
+                "diamond_darker": "trims/color_palettes/diamond_darker",
+                "netherite": "trims/color_palettes/netherite",
+                "netherite_darker": "trims/color_palettes/netherite_darker",
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "copper_darker": "trims/color_palettes/copper_darker",
+                "emerald": "trims/color_palettes/emerald",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst",
+                "blaze": "bracken:trims/color_palettes/blaze"
+            }
+        },
+        {
+            "type": "minecraft:paletted_permutations",
+            "textures": [
+                "bracken:trims/entity/humanoid_leggings/faewild",
+                "bracken:trims/entity/humanoid/faewild"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "iron_darker": "trims/color_palettes/iron_darker",
+                "resin": "trims/color_palettes/resin",
+                "gold": "trims/color_palettes/gold",
+                "gold_darker": "trims/color_palettes/gold_darker",
+                "diamond": "trims/color_palettes/diamond",
+                "diamond_darker": "trims/color_palettes/diamond_darker",
+                "netherite": "trims/color_palettes/netherite",
+                "netherite_darker": "trims/color_palettes/netherite_darker",
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "copper_darker": "trims/color_palettes/copper_darker",
+                "emerald": "trims/color_palettes/emerald",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst",
+                "blaze": "bracken:trims/color_palettes/blaze"
+            }
+        },
+        {
+            "type": "minecraft:paletted_permutations",
+            "textures": [
+                "bracken:trims/entity/humanoid_leggings/dormis",
+                "bracken:trims/entity/humanoid/dormis"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "iron_darker": "trims/color_palettes/iron_darker",
+                "resin": "trims/color_palettes/resin",
+                "gold": "trims/color_palettes/gold",
+                "gold_darker": "trims/color_palettes/gold_darker",
+                "diamond": "trims/color_palettes/diamond",
+                "diamond_darker": "trims/color_palettes/diamond_darker",
+                "netherite": "trims/color_palettes/netherite",
+                "netherite_darker": "trims/color_palettes/netherite_darker",
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "copper_darker": "trims/color_palettes/copper_darker",
+                "emerald": "trims/color_palettes/emerald",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst",
+                "blaze": "bracken:trims/color_palettes/blaze"
+            }
+        },
+        {
+            "type": "minecraft:paletted_permutations",
+            "textures": [
+                "bracken:trims/entity/humanoid_leggings/glacium",
+                "bracken:trims/entity/humanoid/glacium"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "iron_darker": "trims/color_palettes/iron_darker",
+                "resin": "trims/color_palettes/resin",
+                "gold": "trims/color_palettes/gold",
+                "gold_darker": "trims/color_palettes/gold_darker",
+                "diamond": "trims/color_palettes/diamond",
+                "diamond_darker": "trims/color_palettes/diamond_darker",
+                "netherite": "trims/color_palettes/netherite",
+                "netherite_darker": "trims/color_palettes/netherite_darker",
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "copper_darker": "trims/color_palettes/copper_darker",
+                "emerald": "trims/color_palettes/emerald",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst",
+                "blaze": "bracken:trims/color_palettes/blaze"
+            }
+        },
+        {
+            "type": "minecraft:paletted_permutations",
+            "textures": [
+                "bracken:trims/entity/humanoid_leggings/pax",
+                "bracken:trims/entity/humanoid/pax"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "iron_darker": "trims/color_palettes/iron_darker",
+                "resin": "trims/color_palettes/resin",
+                "gold": "trims/color_palettes/gold",
+                "gold_darker": "trims/color_palettes/gold_darker",
+                "diamond": "trims/color_palettes/diamond",
+                "diamond_darker": "trims/color_palettes/diamond_darker",
+                "netherite": "trims/color_palettes/netherite",
+                "netherite_darker": "trims/color_palettes/netherite_darker",
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "copper_darker": "trims/color_palettes/copper_darker",
+                "emerald": "trims/color_palettes/emerald",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst",
+                "blaze": "bracken:trims/color_palettes/blaze"
+            }
+        },
+        {
+            "type": "minecraft:paletted_permutations",
+            "textures": [
+                "bracken:trims/entity/humanoid_leggings/sanctum",
+                "bracken:trims/entity/humanoid/sanctum"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "iron_darker": "trims/color_palettes/iron_darker",
+                "resin": "trims/color_palettes/resin",
+                "gold": "trims/color_palettes/gold",
+                "gold_darker": "trims/color_palettes/gold_darker",
+                "diamond": "trims/color_palettes/diamond",
+                "diamond_darker": "trims/color_palettes/diamond_darker",
+                "netherite": "trims/color_palettes/netherite",
+                "netherite_darker": "trims/color_palettes/netherite_darker",
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "copper_darker": "trims/color_palettes/copper_darker",
+                "emerald": "trims/color_palettes/emerald",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst",
+                "blaze": "bracken:trims/color_palettes/blaze"
+            }
+        },
+        {
+            "type": "minecraft:paletted_permutations",
+            "textures": [
+                "bracken:trims/entity/humanoid_leggings/underdark",
+                "bracken:trims/entity/humanoid/underdark"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "iron_darker": "trims/color_palettes/iron_darker",
+                "resin": "trims/color_palettes/resin",
+                "gold": "trims/color_palettes/gold",
+                "gold_darker": "trims/color_palettes/gold_darker",
+                "diamond": "trims/color_palettes/diamond",
+                "diamond_darker": "trims/color_palettes/diamond_darker",
+                "netherite": "trims/color_palettes/netherite",
+                "netherite_darker": "trims/color_palettes/netherite_darker",
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "copper_darker": "trims/color_palettes/copper_darker",
+                "emerald": "trims/color_palettes/emerald",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst",
+                "blaze": "bracken:trims/color_palettes/blaze"
+            }
+        },
+        {
+            "type": "minecraft:paletted_permutations",
+            "textures": [
+                "bracken:trims/entity/humanoid_leggings/panacea",
+                "bracken:trims/entity/humanoid/panacea"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "iron_darker": "trims/color_palettes/iron_darker",
+                "resin": "trims/color_palettes/resin",
+                "gold": "trims/color_palettes/gold",
+                "gold_darker": "trims/color_palettes/gold_darker",
+                "diamond": "trims/color_palettes/diamond",
+                "diamond_darker": "trims/color_palettes/diamond_darker",
+                "netherite": "trims/color_palettes/netherite",
+                "netherite_darker": "trims/color_palettes/netherite_darker",
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "copper_darker": "trims/color_palettes/copper_darker",
+                "emerald": "trims/color_palettes/emerald",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst",
+                "blaze": "bracken:trims/color_palettes/blaze"
+            }
+        },
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "trims/entity/humanoid/bolt",
+                "trims/entity/humanoid_leggings/bolt",
+                "trims/entity/humanoid/flow",
+                "trims/entity/humanoid_leggings/flow",
+                "trims/entity/humanoid/coast",
+                "trims/entity/humanoid_leggings/coast",
+                "trims/entity/humanoid/sentry",
+                "trims/entity/humanoid_leggings/sentry",
+                "trims/entity/humanoid/dune",
+                "trims/entity/humanoid_leggings/dune",
+                "trims/entity/humanoid/wild",
+                "trims/entity/humanoid_leggings/wild",
+                "trims/entity/humanoid/ward",
+                "trims/entity/humanoid_leggings/ward",
+                "trims/entity/humanoid/eye",
+                "trims/entity/humanoid_leggings/eye",
+                "trims/entity/humanoid/vex",
+                "trims/entity/humanoid_leggings/vex",
+                "trims/entity/humanoid/tide",
+                "trims/entity/humanoid_leggings/tide",
+                "trims/entity/humanoid/snout",
+                "trims/entity/humanoid_leggings/snout",
+                "trims/entity/humanoid/rib",
+                "trims/entity/humanoid_leggings/rib",
+                "trims/entity/humanoid/spire",
+                "trims/entity/humanoid_leggings/spire",
+                "trims/entity/humanoid/silence",
+                "trims/entity/humanoid_leggings/silence",
+                "trims/entity/humanoid/wayfinder",
+                "trims/entity/humanoid_leggings/wayfinder",
+                "trims/entity/humanoid/raiser",
+                "trims/entity/humanoid_leggings/raiser",
+                "trims/entity/humanoid/shaper",
+                "trims/entity/humanoid_leggings/shaper",
+                "trims/entity/humanoid/host",
+                "trims/entity/humanoid_leggings/host"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "blaze": "bracken:trims/color_palettes/blaze"
+            }
+        }
+    ]
+}

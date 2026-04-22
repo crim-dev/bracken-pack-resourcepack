@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "bracken:block/petrified_oak_planks",
+    "side": "bracken:block/petrified_oak_planks",
+    "top": "bracken:block/petrified_oak_planks"
+  }
+}

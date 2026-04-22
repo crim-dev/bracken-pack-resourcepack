@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "bracken:custom_items/others/diamond_short_spear"
+  }
+}

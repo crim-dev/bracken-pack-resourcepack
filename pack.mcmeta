@@ -1,0 +1,50 @@
+{
+	"pack": {
+		"description": "By BrackenStrike!",
+		"min_format": [75,0],
+		"max_format": [75,0]
+	},
+	"overlays": { "entries": [{
+		"directory": "overlay",
+		"min_format": [75,0],
+		"max_format": [75,0]
+	}]}
+	,
+	"language": {
+		"common": {
+			"name": "Common",
+			"region": "The Cornucopia",
+			"bidirectional": false
+		},
+		"astomi": {
+			"name": "Astomi",
+			"region": "Ancient Sanctum",
+			"bidirectional": false
+		},
+		"cld": {
+			"name": "Council Language Database",
+			"region": "The Omnidrome",
+			"bidirectional": false
+		},
+		"endish": {
+			"name": "Endish",
+			"region": "The End",
+			"bidirectional": false
+		},
+		"keeperspeak": {
+			"name": "Keeperspeak",
+			"region": "Pax/Dormis",
+			"bidirectional": false
+		},
+		"mid_com": {
+			"name": "Middle Common",
+			"region": "Glacium",
+			"bidirectional": false
+		},
+		"neth_com": {
+			"name": "Nether Common",
+			"region": "The Nether",
+			"bidirectional": false
+		}
+	}
+}

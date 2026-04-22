@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "bracken:custom_items/panacea/verdant_staff"
+  }
+}

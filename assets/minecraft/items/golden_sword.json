@@ -1,0 +1,79 @@
+{ "model": {
+	"type": "range_dispatch",
+	"property": "custom_model_data",
+	"index": 0,
+	"entries": [{
+		"threshold": 888501,
+		"model": {
+			"type": "model",
+			"model": "bracken:item/average_weapons/golden/bludgeon"
+		}
+	},
+{
+		"threshold": 888502,
+		"model": {
+			"type": "model",
+			"model": "bracken:item/average_weapons/golden/buckler"
+		}
+	},
+{
+		"threshold": 888503,
+		"model": {
+			"type": "model",
+			"model": "bracken:item/average_weapons/golden/cutlass"
+		}
+	},
+{
+		"threshold": 888504,
+		"model": {
+			"type": "model",
+			"model": "bracken:item/average_weapons/golden/dagger"
+		}
+	},
+{
+		"threshold": 888505,
+		"model": {
+			"type": "model",
+			"model": "bracken:item/average_weapons/golden/greatsword"
+		}
+	},
+{
+		"threshold": 888506,
+		"model": {
+			"type": "model",
+			"model": "bracken:item/average_weapons/golden/katana"
+		}
+	},
+{
+		"threshold": 888507,
+		"model": {
+			"type": "model",
+			"model": "bracken:item/average_weapons/golden/rapier"
+		}
+	},
+{
+		"threshold": 888508,
+		"model": {
+			"type": "model",
+			"model": "bracken:item/average_weapons/golden/sabre"
+		}
+	},
+{
+		"threshold": 888509,
+		"model": {
+			"type": "model",
+			"model": "bracken:item/average_weapons/golden/sickle"
+		}
+	}
+,{
+		"threshold": 888510,
+		"model": {
+			"type": "model",
+			"model": "bracken:item/average_weapons/golden/warhammer"
+		}
+	}],
+	"fallback": {
+		"type": "model",
+		"model": "minecraft:item/golden_sword"
+	}
+}}

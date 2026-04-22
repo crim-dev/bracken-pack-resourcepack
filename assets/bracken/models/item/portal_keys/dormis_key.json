@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bracken:custom_items/keys/dormis_key"
+  }
+}

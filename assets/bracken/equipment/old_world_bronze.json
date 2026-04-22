@@ -1,0 +1,14 @@
+{
+    "layers": {
+      "humanoid": [
+        {
+          "texture": "bracken:old_world_bronze_h"
+        }
+      ],
+      "humanoid_leggings": [
+        {
+          "texture": "bracken:old_world_bronze_hl"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,463 @@
+{
+    "sanctum_creepy_sound": {
+        "sounds": [
+            {
+                "name": "bracken:soundfx/sanctum_sounds/sanctum_creepy_sound",
+                "volume": 0.2,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "crofter_hum": {
+        "sounds": [
+            {
+                "name": "bracken:soundfx/crofter_hum",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ability_book_tier_1": {
+        "sounds": [
+            {
+                "name": "bracken:soundfx/ability_book_tier_1",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ability_book_tier_2": {
+        "sounds": [
+            {
+                "name": "bracken:soundfx/ability_book_tier_2",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ability_book_tier_3": {
+        "sounds": [
+            {
+                "name": "bracken:soundfx/ability_book_tier_3",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ability_book_tier_4": {
+        "sounds": [
+            {
+                "name": "bracken:soundfx/ability_book_tier_4",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "ability_book_tier_5": {
+        "sounds": [
+            {
+                "name": "bracken:soundfx/ability_book_tier_5",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "sanctum_ambient": {
+        "sounds": [
+            {
+                "name": "bracken:soundfx/sanctum_sounds/sanctum_ambient_01",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/sanctum_sounds/sanctum_ambient_01",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/sanctum_sounds/sanctum_ambient_02",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/sanctum_sounds/sanctum_ambient_03",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/sanctum_sounds/sanctum_ambient_04",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/sanctum_sounds/sanctum_ambient_05",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    
+    "faewild_ambient": {
+        "sounds": [
+            {
+                "name": "bracken:soundfx/faewild_sounds/faewild_ambient_04",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/faewild_sounds/faewild_ambient_05",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/faewild_sounds/faewild_ambient_06",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/faewild_sounds/faewild_ambient_07",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/faewild_sounds/faewild_ambient_08",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/faewild_sounds/faewild_single_cricket",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "underdark_ambient": {
+        "sounds": [
+            {
+                "name": "bracken:soundfx/underdark_sounds/underdark_ambient_01",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/underdark_sounds/underdark_ambient_02",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/underdark_sounds/underdark_ambient_03",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/underdark_sounds/underdark_ambient_04",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/underdark_sounds/underdark_ambient_05",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/underdark_sounds/underdark_ambient_06",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/underdark_sounds/underdark_ambient_07",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/underdark_sounds/underdark_ambient_08",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/underdark_sounds/underdark_ambient_09",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/underdark_sounds/underdark_ambient_10",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/underdark_sounds/underdark_ambient_wind",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "crystal_caves_ambient": {
+        "sounds": [
+            {
+                "name": "bracken:soundfx/underdark_sounds/crystal_caves_ambient_01",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/underdark_sounds/crystal_caves_ambient_02",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/underdark_sounds/crystal_caves_ambient_03",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/underdark_sounds/crystal_caves_ambient_04",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/underdark_sounds/crystal_caves_ambient_05",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "void_ambient": {
+        "sounds": [
+            {
+                "name": "bracken:soundfx/void_sounds/void_ambient_01",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/void_sounds/void_ambient_02",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/void_sounds/void_ambient_03",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/void_sounds/void_ambient_04",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/void_sounds/void_ambient_05",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/void_sounds/void_ambient_06",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/void_sounds/void_ambient_07",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            },
+            {
+                "name": "bracken:soundfx/void_sounds/void_ambient_08",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "brine_waves": {
+        "sounds": [
+            {
+                "name": "bracken:soundfx/brine_sounds/brine_ocean_waves",
+                "volume": 0.5,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "faewild": {
+        "sounds": [
+            {
+                "name": "bracken:music/faewild",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "viceroy": {
+        "sounds": [
+            {
+                "name": "bracken:music/viceroy",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "omnidrome": {
+        "sounds": [
+            {
+                "name": "bracken:music/omnidrome",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "varskspace": {
+        "sounds": [
+            {
+                "name": "bracken:music/varskspace",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "underdark": {
+        "sounds": [
+            {
+                "name": "bracken:music/underdark",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "glacium": {
+        "sounds": [
+            {
+                "name": "bracken:music/glacium",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "brine": {
+        "sounds": [
+            {
+                "name": "bracken:music/brine",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ],
+        "subtitle": "bracken.music.brine"
+    },
+    "pax": {
+        "sounds": [
+            {
+                "name": "bracken:music/pax",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    },
+    "dormis": {
+        "sounds": [
+            {
+                "name": "bracken:music/dormis",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true
+            }
+        ]
+    }
+}

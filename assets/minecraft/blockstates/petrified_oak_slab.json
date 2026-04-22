@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bracken:block/petrified_oak_slab"
+    },
+    "type=double": {
+      "model": "bracken:block/petrified_oak_planks"
+    },
+    "type=top": {
+      "model": "bracken:block/petrified_oak_slab_top"
+    }
+  }
+}

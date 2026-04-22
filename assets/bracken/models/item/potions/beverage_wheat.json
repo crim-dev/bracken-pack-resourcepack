@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "bracken:custom_items/brine_ing/beverage_wheat"
+  }
+}

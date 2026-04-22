@@ -1,0 +1,14 @@
+{
+    "layers": {
+      "humanoid": [
+        {
+          "texture": "bracken:cryolith_h"
+        }
+      ],
+      "humanoid_leggings": [
+        {
+          "texture": "bracken:cryolith_hl"
+        }
+      ]
+    }
+  }

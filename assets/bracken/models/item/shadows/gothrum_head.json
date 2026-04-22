@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "goth",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "item/goth",
+		"particle": "item/goth"
+	},
+	"elements": [
+		{
+			"name": "head",
+			"from": [1, 1, 1],
+			"to": [15, 15, 15],
+			"faces": {
+				"north": {"uv": [2, 2, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 4], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 4], "texture": "#0"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "goth",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

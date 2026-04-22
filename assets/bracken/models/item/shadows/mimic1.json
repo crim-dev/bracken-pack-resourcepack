@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/mimic1",
+		"particle": "item/mimic1"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [14, 10, 14],
+			"faces": {
+				"north": {"uv": [3.5, 0, 7, 2.5], "texture": "#0"},
+				"east": {"uv": [3.5, 2.5, 7, 5], "texture": "#0"},
+				"south": {"uv": [3.5, 5, 7, 7.5], "texture": "#0"},
+				"west": {"uv": [0, 7, 3.5, 9.5], "texture": "#0"},
+				"up": {"uv": [3.5, 3.5, 0, 0], "texture": "#0"},
+				"down": {"uv": [3.5, 3.5, 0, 7], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [1.5, -11.5, 0.75],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "mimic",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
