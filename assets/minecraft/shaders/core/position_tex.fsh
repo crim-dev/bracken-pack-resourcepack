@@ -24,7 +24,14 @@ void main() {
         vec2 uv = texCoord0 * atlasSize;
 
         // calculate the warped and shifted UV
-        uv = shiftTextureUV(uv, textureHeight, frames, textureShift);
+        if (texCoord0.x < 0.2)
+        {
+            uv = shiftTextureUV_special(uv, textureHeight, frames, textureShift);
+        }
+        else
+        {
+            uv = shiftTextureUV(uv, textureHeight, frames, textureShift);
+        }
 
         // normalize the uv
         color = texture(Sampler0, uv / atlasSize);

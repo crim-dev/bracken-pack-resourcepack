@@ -77,7 +77,6 @@ void main() {
             textureHeight = 512.0;
             switch (getDimension(FogColor.rgb, FogCloudsEnd))
             {
-                
                 case 1: textureShift = 1.0; size = 0.3; break; // faewild
                 case 2: textureShift = 2.0; size = 1.50; break; // panacea
                 case 3: textureShift = 3.0; size = 0.75; break; // omnidrome
@@ -91,7 +90,7 @@ void main() {
         case 2: {
             isCelestial = 1;
             frames = 6.0;
-            textureHeight = 192.0;
+            textureHeight = 193.0;
             switch (getDimension(FogColor.rgb, FogCloudsEnd))
             {
                 case 1: textureShift = 0.0; size = 0.5; break; // faewild
@@ -108,7 +107,7 @@ void main() {
             isCelestial = 0;
         }
     }
-vec3 rotated = rotateY(radians(tilt)) * Position;
+    vec3 rotated = rotateY(radians(tilt)) * Position;
     vec4 pos = vec4(rotated, size);
     pos.x += SunOffset;
 
