@@ -4,7 +4,7 @@ int getDimension(vec3 biomeFog, float cloudFogDistance) {
     float omnidromeCFD      = 2040.0033;
     float sanctumCFD        = 128.0034;
     float varskspaceCFD     = 2040.0035;
-    float glaciumCFD        = 2040.0036;
+    float glaciumCFD        = 2040.0026;
     float brineCFD          = 2040.0037;
 
     if      (approxEquals(cloudFogDistance, faewildCFD, 0.00001)) return 1; // faewild 
