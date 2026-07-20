@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "giant",
-		"particle": "giant"
+		"0": "item/giant",
+		"particle": "item/giant"
 	},
 	"elements": [
 		{
@@ -80,8 +80,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [7, 7, 6.5],
-			"scale": [1.67, 1.67, 1.67]
+			"translation": [6.75, 7, 6.75],
+			"scale": [1.7, 1.7, 1.7]
 		}
 	},
 	"groups": [
