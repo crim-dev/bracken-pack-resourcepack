@@ -80,10 +80,10 @@ void main() {
                 case 1: textureShift = 1.0; size = 0.3; break; // faewild
                 case 2: textureShift = 2.0; size = 1.50; break; // panacea
                 case 3: textureShift = 3.0; size = 0.75; break; // omnidrome
-                case 4: textureShift = 4.0; size = 0.30; break; // sanctum
+                case 4: textureShift = 4.0; size = 0.50; break; // sanctum
                 case 5: textureShift = 5.0; size = 1.0; break; // varskspace
                 case 6: textureShift = 6.0; size = 1.0; break; // glacium
-                case 7: textureShift = 7.0; size = 1.0; break; // brine
+                case 7: textureShift = 7.0; size = 2.0; break; // brine
                 default: textureShift = 0.0; size = 1.0;
             } break;
         } // Moon
@@ -94,7 +94,7 @@ void main() {
             switch (getDimension(FogColor.rgb, FogCloudsEnd))
             {
                 case 1: textureShift = 0.0; size = 0.5; break; // faewild
-                case 2: textureShift = 4.0; size = 1.50; break; // panacea
+                case 2: textureShift = 5.0; size = 1.50; break; // panacea
                 case 3: textureShift = 3.0; size = 1.0; break; // omnidrome
                 case 4: textureShift = 1.0; size = 5.0; break; // sanctum
                 case 5: textureShift = 3.0; size = 1.0; break; // varskspace

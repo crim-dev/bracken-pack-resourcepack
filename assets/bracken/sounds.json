@@ -250,7 +250,7 @@
             }
         ]
     },
-    "crystal_caves_ambient": {
+    "crystal_caves_ambient_01": {
         "sounds": [
             {
                 "name": "bracken:soundfx/underdark_sounds/crystal_caves_ambient_01",
@@ -258,28 +258,44 @@
                 "pitch": 1.0,
                 "weight": 1,
                 "stream": true
-            },
+            }
+        ]
+    },
+    "crystal_caves_ambient_02": {
+        "sounds": [
             {
                 "name": "bracken:soundfx/underdark_sounds/crystal_caves_ambient_02",
                 "volume": 0.8,
                 "pitch": 1.0,
                 "weight": 1,
                 "stream": true
-            },
+            }
+        ]
+    },
+    "crystal_caves_ambient_03": {
+        "sounds": [
             {
                 "name": "bracken:soundfx/underdark_sounds/crystal_caves_ambient_03",
                 "volume": 0.8,
                 "pitch": 1.0,
                 "weight": 1,
                 "stream": true
-            },
+            }
+        ]
+    },
+    "crystal_caves_ambient_04": {
+        "sounds": [
             {
                 "name": "bracken:soundfx/underdark_sounds/crystal_caves_ambient_04",
                 "volume": 0.8,
                 "pitch": 1.0,
                 "weight": 1,
                 "stream": true
-            },
+            }
+        ]
+    },
+    "crystal_caves_ambient_05": {
+        "sounds": [
             {
                 "name": "bracken:soundfx/underdark_sounds/crystal_caves_ambient_05",
                 "volume": 0.8,
