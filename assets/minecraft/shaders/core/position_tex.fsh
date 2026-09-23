@@ -1,41 +1,49 @@
 #version 330
-#moj_import <minecraft:fog.glsl>
-#moj_import <minecraft:dynamictransforms.glsl>
+#extension GL_ARB_separate_shader_objects : require
 
-#moj_import <bracken:shift_texture.glsl>
+#include <minecraft:dynamictransforms.glsl>
 
-in vec2 texCoord0;
-flat in int isCelestial;
-flat in float textureShift;
-flat in float frames;
-flat in float textureHeight;
-flat in vec2 atlasSize;
+#include <bracken:shift_texture.glsl>
+
+layout(location = 0) in vec2 texCoord0;
+layout(location = 1) flat in int isCelestial;
+layout(location = 2) flat in float frames;
+layout(location = 3) flat in float textureShift;
+layout(location = 4) flat in float textureHeight;
+layout(location = 5) flat in vec2 atlasSize;
 
 uniform sampler2D Sampler0;
 
-out vec4 fragColor;
+layout(location = 0) out vec4 fragColor;
 
 void main() {
     vec4 color = texture(Sampler0, texCoord0);
 
     if (isCelestial == 1)
     {
-        // scale the uv to pixel coordinates
         vec2 uv = texCoord0 * atlasSize;
 
-        // calculate the warped and shifted UV
         if (texCoord0.x < 0.2)
         {
-            uv = shiftTextureUV_special(uv, textureHeight, frames, textureShift);
+            uv = shiftTextureUV_special(
+                uv,
+                textureHeight,
+                frames,
+                textureShift
+            );
         }
         else
         {
-            uv = shiftTextureUV(uv, textureHeight, frames, textureShift);
+            uv = shiftTextureUV(
+                uv,
+                textureHeight,
+                frames,
+                textureShift
+            );
         }
 
-        // normalize the uv
         color = texture(Sampler0, uv / atlasSize);
-    } 
+    }
 
     fragColor = color * ColorModulator;
 }
